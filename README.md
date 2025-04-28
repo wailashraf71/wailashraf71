@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wail Hayaly</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h3 align="center">Principal Software Engineer | Technical Visionary | Building Scalable, Future-Proof Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wailashraf71&label=Profile%20views&color=0e75b6&style=flat" alt="wailashraf71" /> </p>
