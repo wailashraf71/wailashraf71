@@ -57,8 +57,8 @@ Let’s engineer the future together.
 
 ----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wailashraf71&show_icons=true&locale=en&layout=compact" alt="wailashraf71" /></p>
+## ✨ Profile Status
 
-----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wailashraf71&show_icons=true&locale=en&layout=compact" alt="wailashraf71" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wailashraf71&" alt="wailashraf71" /></p>
