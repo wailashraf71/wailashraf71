@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20there👋,%20I'm%20Wail%20Hayaly&fontSize=50&fontColor=ffffff"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there👋,%20I'm%20Wail%20Hayaly&fontSize=50&fontColor=ffffff"  />
 </p>
 <h3 align="center">Principal Software Engineer | Technical Visionary | Building Scalable, Future-Proof Systems</h3>
 
@@ -62,3 +62,6 @@ Let’s engineer the future together.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wailashraf71&show_icons=true&locale=en&layout=compact" alt="wailashraf71" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wailashraf71&" alt="wailashraf71" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=50&fontColor=ffffff"  />
